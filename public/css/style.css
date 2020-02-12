@@ -1,0 +1,18 @@
+body{
+    background-color: #BC8F8F;
+}
+
+#heading{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.name1{
+    margin-top: 20px;
+}
+
+#submitbtn{
+    background-color: #EED5D2;
+    border-color: #BC8F8F;
+    color: black;
+}
